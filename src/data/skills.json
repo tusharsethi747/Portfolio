@@ -1,0 +1,22 @@
+[
+    {
+        "title":"HTML",
+        "image":"html.png"
+    },
+    {
+        "title":"CSS",
+        "image":"css.png"
+    },
+    {
+        "title":"NODE JS",
+        "image":"node.png"
+    },
+    {
+        "title":"REACT",
+        "image":"react.png"
+    },
+    {
+        "title":"MONGO DB",
+        "image":"mongodb.png"
+    }
+]

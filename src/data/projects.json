@@ -1,0 +1,11 @@
+[
+    {
+      "title": "ChatterBox",
+      "imageSrc": "chatterbox.jpg",
+      "description": "Enabling seamless communication between users,users can engage in conversations instantly, fostering real-time interaction.",
+      "skills": ["React", "Mongo DB", "Node","Socket io"],
+      "demo": "https://chatterbox-q1j7.vercel.app/login",
+      "source": "https://github.com/tusharsethi747/chatterbox"
+    }
+  ]
+  
